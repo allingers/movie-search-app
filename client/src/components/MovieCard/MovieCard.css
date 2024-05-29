@@ -1,0 +1,14 @@
+.section-title {
+  margin-top: 1rem;
+}
+
+.movie-genrer {
+  color: rgb(182, 179, 179);
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+}
+
+.movie-length {
+  font-size: 0.8rem;
+  margin-bottom: 0.3rem;
+}
