@@ -1,0 +1,15 @@
+.custom-carousel-caption {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.custom-carousel-title {
+  font-size: 5rem;
+}
+
+.custom-carousel-button {
+  margin-top: 3rem;
+}
